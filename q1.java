@@ -14,7 +14,7 @@ class q1{
             if(valor < 0) count++;
         }
 
-        System.out.println("Encontramos " + count + "valores negativos");
+        System.out.println("Encontramos " + count + " valores negativos");
         teclado.close();
     }
 }
